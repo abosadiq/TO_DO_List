@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tableViewDemo/DisplayEditViewController.swift"
+            timestampString = "579681121.908632"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "DisplayEditViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tableViewDemo.DisplayEditViewController.display.getter : weak Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "tableViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fatmakhan/Desktop/TODOLIZST/tableViewDemo/DisplayEditViewController.swift"
+                  timestampString = "579680741.110162"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tableViewDemo.DisplayEditViewController.display.setter : weak Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "tableViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fatmakhan/Desktop/TODOLIZST/tableViewDemo/DisplayEditViewController.swift"
+                  timestampString = "579680741.113243"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tableViewDemo.DisplayEditViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; tableViewDemo.DisplayEditViewController"
+                  moduleName = "tableViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fatmakhan/Desktop/TODOLIZST/tableViewDemo/DisplayEditViewController.swift"
+                  timestampString = "579680741.115423"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tableViewDemo.DisplayEditViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;tableViewDemo.DisplayEditViewController&gt;"
+                  moduleName = "tableViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fatmakhan/Desktop/TODOLIZST/tableViewDemo/DisplayEditViewController.swift"
+                  timestampString = "579680741.11742"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tableViewDemo/DisplayEditViewController.swift"
+            timestampString = "579681121.908996"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "DisplayEditViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tableViewDemo.DisplayEditViewController.display.getter : weak Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "tableViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fatmakhan/Desktop/TODOLIZST/tableViewDemo/DisplayEditViewController.swift"
+                  timestampString = "579680734.946771"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tableViewDemo.DisplayEditViewController.display.setter : weak Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "tableViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fatmakhan/Desktop/TODOLIZST/tableViewDemo/DisplayEditViewController.swift"
+                  timestampString = "579680734.949082"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tableViewDemo.DisplayEditViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; tableViewDemo.DisplayEditViewController"
+                  moduleName = "tableViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fatmakhan/Desktop/TODOLIZST/tableViewDemo/DisplayEditViewController.swift"
+                  timestampString = "579680734.951219"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "tableViewDemo.DisplayEditViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;tableViewDemo.DisplayEditViewController&gt;"
+                  moduleName = "tableViewDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fatmakhan/Desktop/TODOLIZST/tableViewDemo/DisplayEditViewController.swift"
+                  timestampString = "579680734.953863"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
